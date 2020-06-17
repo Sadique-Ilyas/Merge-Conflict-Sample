@@ -1,2 +1,0 @@
-# Merge Conflict Sample
-
